@@ -1,7 +1,7 @@
 # Hi, I'm Ahmad 👋
 
 ## 💻 About Me
-- 2nd Year Computer Engineering Student
+- 3nd Year Computer Engineering Student
 - Passionate about programming and building projects
 - Learning and exploring Linux and software development
 
