@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad 👋
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRkNXd3Y3o5Mzl6emFld3Q1aG9ycXZ4ZDJ3MDRpMTRjODlneWF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif
+![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRkNXd3Y3o5Mzl6emFld3Q1aG9ycXZ4ZDJ3MDRpMTRjODlneWF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif)
 
 ## 💻 About Me
 - 3rd Year Computer Engineering Student at Birzeit University 🏫
