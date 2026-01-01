@@ -19,6 +19,3 @@
 - [MedicalClinicManagmentSystem](https://github.com/AhmadMedhatAteya/MedicalClinicManagmentSystem) - Clinic management system in Java
 - [RockPaperScissorsGame](https://github.com/AhmadMedhatAteya/RockPaperScissorsGame) - Classic rock-paper-scissors game
 
-## 📈 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMedhatAteya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMedhatAteya&layout=compact&theme=radical)
