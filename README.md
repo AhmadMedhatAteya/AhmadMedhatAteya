@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad 👋
 
-![Student GIF](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
+![Coding Animation](https://media.tenor.com/images/5f28cfa46406d39f92c1870d6d4b0b05/tenor.gif)
 
 ## 💻 About Me
 - 3rd Year Computer Engineering Student at Birzeit University 🏫
@@ -21,4 +21,4 @@
 
 ## 📈 GitHub Stats
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMedhatAteya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMedhatAteya&layout=compact&theme=radical)
