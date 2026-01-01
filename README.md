@@ -17,5 +17,5 @@
 ## 📂 Projects
 - [Math-Game](https://github.com/AhmadMedhatAteya/Math-Game-) - A fun math game project
 - [MedicalClinicManagmentSystem](https://github.com/AhmadMedhatAteya/MedicalClinicManagmentSystem) - Clinic management system in Java
-- [RockPaperScissorsGame](https://github.com/AhmadMedhatAteya/RockPaperScissorsGame) - Classic rock-paper-scissors game
+- [RockPaperScissorsGame](https://github.com/AhmadMedhatAteya/RockPapperScissorsGame) - Classic rock-paper-scissors game
 
