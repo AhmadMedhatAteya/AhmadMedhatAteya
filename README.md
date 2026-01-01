@@ -18,4 +18,4 @@
 - [Sorting Algorithms](https://github.com/AhmadMedhatAteya/SortingAlgorithms) - Implemented various algorithms in Python and C++
 
 ## 📈 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAteya&show_icons=true&theme=radical)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMedhatAteya&show_icons=true&theme=radical)
