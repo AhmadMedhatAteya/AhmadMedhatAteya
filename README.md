@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad 👋
 
-![Coding Animation](https://media.tenor.com/images/5f28cfa46406d39f92c1870d6d4b0b05/tenor.gif)
+![Programming GIF](https://media.tenor.com/images/5f28cfa46406d39f92c1870d6d4b0b05/tenor.gif)
 
 ## 💻 About Me
 - 3rd Year Computer Engineering Student at Birzeit University 🏫
