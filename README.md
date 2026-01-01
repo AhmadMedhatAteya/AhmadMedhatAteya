@@ -1,7 +1,7 @@
 # Hi, I'm Ahmad 👋
 
 ## 💻 About Me
-- 3nd Year Computer Engineering Student
+- 3rd Year Computer Engineering Student at Birzeit University
 - Passionate about programming and building projects
 - Learning and exploring Linux and software development
 
