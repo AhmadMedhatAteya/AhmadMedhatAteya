@@ -15,7 +15,7 @@
 ![Trading](https://img.shields.io/badge/Trading-1DB954?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 ## 📂 Projects
-- [Math-Game](https://github.com/AhmadMedhatAteya/Math-Game) - A fun math game project
+- [Math-Game](https://github.com/AhmadMedhatAteya/Math-Game-) - A fun math game project
 - [MedicalClinicManagmentSystem](https://github.com/AhmadMedhatAteya/MedicalClinicManagmentSystem) - Clinic management system in Java
 - [RockPaperScissorsGame](https://github.com/AhmadMedhatAteya/RockPaperScissorsGame) - Classic rock-paper-scissors game
 
