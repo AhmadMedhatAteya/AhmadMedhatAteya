@@ -1,13 +1,11 @@
 # Hi, I'm Ahmad 👋
 
-![Coding GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+![Student GIF](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
 
 ## 💻 About Me
-- 3rd Year Computer Engineering Student at Birzeit University
-- Passionate about programming and building projects
-- Learning and exploring Linux and software development
-
-![Computer GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+- 3rd Year Computer Engineering Student at Birzeit University 🏫
+- Passionate about programming, algorithms, and software projects
+- Exploring Linux and building real-world applications
 
 ## 🛠 Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,4 +21,4 @@
 
 ## 📈 GitHub Stats
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMedhatAteya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMedhatAteya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs)
